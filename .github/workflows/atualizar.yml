@@ -1,0 +1,30 @@
+name: Atualizar planilha
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # roda todo dia, às 9h de Brasília (12h UTC)
+  workflow_dispatch:        
+
+jobs:
+  rodar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Recriar credentials.json a partir do secret
+        run: echo '${{ secrets.GCP_CREDENTIALS }}' > credentials.json
+
+      - name: Rodar pipeline
+        env:
+          CREDENTIALS_FILE: credentials.json
+          ORIGEM_SHEET_ID: 194ulMs8_6E4bluTG_vfxJJZr-jHUNPDVe-trEzrcgMg
+          DESTINO_SHEET_ID: ${{ secrets.DESTINO_SHEET_ID }}
+          ABA_DESTINO: CONSOLIDADO
+        run: python3 src/gerar_sheet.py
