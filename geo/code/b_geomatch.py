@@ -59,6 +59,7 @@ def match_level_2(df):
 
     # --- level 2: simple normalized merge, scoped to the matched state ---
     # csv unidade names look like "Official Name (Capital City)" -> strip the part in parenthesis so we only 
+    # merge on the base name. This might fix most inconsistencies
     df_['unidade_key'] = df_['unidade'].str.replace(r'\s*\(.*\)\.?$', '', regex=True).map(normalize)
     level_2['name_key'] = level_2['name'].map(normalize)
 
