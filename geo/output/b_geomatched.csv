@@ -1,0 +1,301 @@
+estado,unidade,tipo_unidade,unidade_original,poblacion,tamano,medios_total,medios_urbanos,medios_rurales,medios_plurales,categoria_preliminar,filtro_bosque_pct,categoria_definitiva,_status,level_1_code,level_2_code
+Amazonas,Alto Orinoco (La Esmeralda),municipio,Amazonas - Alto Orinoco (La Esmeralda),14464,Localidad pequeña,2,1.0,1.0,,Desierto,,Desierto,ok,VE02,VE0201
+Amazonas,Atabapo,municipio,Amazonas - Atabapo,10711,Localidad pequeña,0,0.0,0.0,,Desierto,,Desierto,ok,VE02,VE0202
+Amazonas,Atures (Puerto Ayacucho),municipio,Amazonas - Atures (Puerto Ayacucho),132919,Localidad grande,5,5.0,3.0,,Desierto,,Desierto,ok,VE02,VE0203
+Amazonas,Autana (Isla Ratón),municipio,Amazonas - Autana (Isla Ratón),10191,Localidad pequeña,2,1.0,2.0,,Desierto,,Desierto,ok,VE02,VE0204
+Amazonas,Manapiare,municipio,Amazonas - Manapiare,9021,Localidad pequeña,0,0.0,0.0,,Desierto,,Desierto,ok,VE02,VE0206
+Amazonas,Maroa,municipio,Amazonas - Maroa,2370,Localidad pequeña,1,1.0,1.0,,Desierto,,Desierto,ok,VE02,VE0205
+Amazonas,Río Negro,municipio,Amazonas - Río Negro,2635,Localidad pequeña,2,1.0,2.0,,Desierto,,Desierto,ok,VE02,VE0207
+Apure,Achaguas,municipio,Apure - Achaguas,72491,Localidad mediana,14,14.0,5.0,1.0,Desierto,,Desierto,ok,VE04,VE0401
+Apure,Biruaca,municipio,Apure - Biruaca,68904,Localidad mediana,17,17.0,7.0,1.0,Desierto,,Desierto,ok,VE04,VE0402
+Apure,Muñoz (Bruzual),municipio,Apure - Muñoz (Bruzual),32160,Localidad mediana,5,5.0,4.0,3.0,Desierto,,Desierto,ok,VE04,VE0403
+Apure,Páez (Guasdualito),municipio,Apure - Páez (Guasdualito),117417,Localidad grande,11,10.0,8.0,1.0,Desierto,,Desierto,ok,VE04,VE0404
+Apure,Pedro Camejo (San Juan de Payara),municipio,Apure - Pedro Camejo (San Juan de Payara),37151,Localidad mediana,11,10.0,7.0,2.0,Desierto,,Desierto,ok,VE04,VE0405
+Apure,Rómulo Gallegos (Elorza),municipio,Apure - Rómulo Gallegos (Elorza),30901,Localidad mediana,12,12.0,6.0,2.0,Desierto,,Desierto,ok,VE04,VE0406
+Apure,San Fernando,municipio,Apure - San Fernando,208479,Localidad grande,19,19.0,8.0,2.0,Desierto,,Desierto,ok,VE04,VE0407
+Aragua,Bolívar (San Mateo),municipio,Aragua - Bolívar (San Mateo),36593,Localidad mediana,8,8.0,2.0,3.0,Desierto,,Desierto,ok,VE05,VE0501
+Aragua,Camatagua,municipio,Aragua - Camatagua,16934,Localidad pequeña,2,2.0,0.0,,Desierto,,Desierto,ok,VE05,VE0502
+Aragua,Francisco Linares Alcántara (Santa Rita),municipio,Aragua - Francisco Linares Alcántara (Santa Rita),123140,Localidad grande,13,13.0,8.0,5.0,Desierto,,Desierto,ok,VE05,VE0517
+Aragua,Girardot (Maracay),municipio,Aragua - Girardot (Maracay),413704,Localidad grande,18,18.0,12.0,7.0,Semibosque,,Semibosque,ok,VE05,VE0503
+Aragua,José Ángel Lamas (Santa Cruz),municipio,Aragua - José Ángel Lamas (Santa Cruz),31961,Localidad mediana,5,5.0,2.0,1.0,Desierto,,Desierto,ok,VE05,VE0504
+Aragua,José Félix Ribas (La Victoria),municipio,Aragua - José Félix Ribas (La Victoria),146102,Localidad grande,13,13.0,6.0,4.0,Desierto,,Desierto,ok,VE05,VE0505
+Aragua,José Rafael Revenga (El Consejo),municipio,Aragua - José Rafael Revenga (El Consejo),49307,Localidad mediana,7,7.0,2.0,3.0,Desierto,,Desierto,ok,VE05,VE0506
+Aragua,Libertador (Palo Negro),municipio,Aragua - Libertador (Palo Negro),113744,Localidad grande,12,12.0,5.0,5.0,Desierto,,Desierto,ok,VE05,VE0507
+Aragua,Mario Briceño Iragorry (El Limón),municipio,Aragua - Mario Briceño Iragorry (El Limón),100928,Localidad grande,12,12.0,6.0,5.0,Desierto,,Desierto,ok,VE05,VE0508
+Aragua,Ocumare de la Costa,municipio,Aragua - Ocumare de la Costa,13180,Localidad pequeña,4,4.0,1.0,,Desierto,,Desierto,ok,VE05,VE0518
+Aragua,San Casimiro,municipio,Aragua - San Casimiro,24827,Localidad pequeña,3,3.0,1.0,,Desierto,,Desierto,ok,VE05,VE0509
+Aragua,San Sebastián,municipio,Aragua - San Sebastián,23147,Localidad pequeña,3,3.0,1.0,,Desierto,,Desierto,ok,VE05,VE0510
+Aragua,Santiago Mariño (Turmero),municipio,Aragua - Santiago Mariño (Turmero),214068,Localidad grande,19,19.0,12.0,7.0,Semibosque,,Semibosque,ok,VE05,VE0511
+Aragua,Santos Michelena (Las Tejerías),municipio,Aragua - Santos Michelena (Las Tejerías),37848,Localidad mediana,6,6.0,2.0,2.0,Desierto,,Desierto,ok,VE05,VE0512
+Aragua,Sucre (Cagua),municipio,Aragua - Sucre (Cagua),119605,Localidad grande,10,10.0,2.0,3.0,Desierto,,Desierto,ok,VE05,VE0513
+Aragua,Tovar (Colonia Tovar),municipio,Aragua - Tovar (Colonia Tovar),14274,Localidad pequeña,2,2.0,0.0,,Desierto,,Desierto,ok,VE05,VE0514
+Aragua,Urdaneta (Barbacoas),municipio,Aragua - Urdaneta (Barbacoas),20854,Localidad pequeña,2,2.0,0.0,,Desierto,,Desierto,ok,VE05,VE0515
+Aragua,Zamora (Villa de Cura),municipio,Aragua - Zamora (Villa de Cura),142084,Localidad grande,2,2.0,0.0,,Desierto,,Desierto,ok,VE05,VE0516
+Barinas,Alberto Arvelo Torrealba (Sabaneta),municipio,Barinas - Alberto Arvelo Torrealba (Sabaneta),41447,Localidad mediana,22,17.0,12.0,2.0,Desierto,,Desierto,ok,VE06,VE0601
+Barinas,Andrés Eloy Blanco (El Cantón),municipio,Barinas - Andrés Eloy Blanco (El Cantón),15592,Localidad pequeña,17,16.0,7.0,2.0,Desierto,,Desierto,ok,VE06,VE0612
+Barinas,Antonio José de Sucre (Socopó),municipio,Barinas - Antonio José de Sucre (Socopó),78410,Localidad mediana,27,25.0,13.0,2.0,Desierto,,Desierto,ok,VE06,VE0602
+Barinas,Arismendi,municipio,Barinas - Arismendi,27019,Localidad mediana,13,9.0,7.0,1.0,Desierto,,Desierto,ok,VE06,VE0603
+Barinas,Barinas,municipio,Barinas - Barinas,370457,Localidad grande,30,30.0,15.0,2.0,Desierto,,Desierto,ok,VE06,VE0604
+Barinas,Bolívar (Barinitas),municipio,Barinas - Bolívar (Barinitas),53362,Localidad mediana,25,22.0,12.0,2.0,Desierto,,Desierto,ok,VE06,VE0605
+Barinas,Cruz Paredes (Barrancas),municipio,Barinas - Cruz Paredes (Barrancas),25646,Localidad mediana,23,22.0,13.0,2.0,Desierto,,Desierto,ok,VE06,VE0606
+Barinas,Ezequiel Zamora (Santa Bárbara),municipio,Barinas - Ezequiel Zamora (Santa Bárbara),52643,Localidad mediana,21,20.0,11.0,2.0,Desierto,,Desierto,ok,VE06,VE0607
+Barinas,Obispos (Obispos),municipio,Barinas - Obispos (Obispos),36467,Localidad mediana,23,20.0,9.0,1.0,Desierto,,Desierto,ok,VE06,VE0608
+Barinas,Pedraza (Ciudad Bolivia),municipio,Barinas - Pedraza (Ciudad Bolivia),66572,Localidad mediana,24,20.0,14.0,2.0,Desierto,,Desierto,ok,VE06,VE0609
+Barinas,Rojas (Libertad),municipio,Barinas - Rojas (Libertad),40219,Localidad mediana,15,13.0,9.0,1.0,Desierto,,Desierto,ok,VE06,VE0610
+Barinas,Sosa (Ciudad de Nutrias),municipio,Barinas - Sosa (Ciudad de Nutrias),24035,Localidad pequeña,15,12.0,7.0,1.0,Desierto,,Desierto,ok,VE06,VE0611
+Carabobo,Bejuma,municipio,Carabobo - Bejuma,46741,Localidad mediana,13,12.0,9.0,6.0,Semibosque,,Semibosque,ok,VE08,VE0801
+Carabobo,Carlos Arvelo (Güigüe),municipio,Carabobo - Carlos Arvelo (Güigüe),144284,Localidad grande,7,5.0,5.0,3.0,Desierto,,Desierto,ok,VE08,VE0802
+Carabobo,Diego Ibarra (Mariara),municipio,Carabobo - Diego Ibarra (Mariara),101445,Localidad grande,8,6.0,5.0,3.0,Desierto,,Desierto,ok,VE08,VE0803
+Carabobo,Guacara,municipio,Carabobo - Guacara,173760,Localidad grande,25,24.0,5.0,9.0,Posible bosque,,Semibosque,ok,VE08,VE0804
+Carabobo,Juan José Mora (Morón),municipio,Carabobo - Juan José Mora (Morón),68049,Localidad mediana,12,11.0,7.0,3.0,Desierto,,Desierto,ok,VE08,VE0805
+Carabobo,Libertador (Tocuyito),municipio,Carabobo - Libertador (Tocuyito),167492,Localidad grande,24,22.0,6.0,7.0,Semibosque,,Semibosque,ok,VE08,VE0806
+Carabobo,Los Guayos,municipio,Carabobo - Los Guayos,147259,Localidad grande,23,21.0,6.0,7.0,Semibosque,,Semibosque,ok,VE08,VE0807
+Carabobo,Miranda,municipio,Carabobo - Miranda,28738,Localidad mediana,11,8.0,9.0,5.0,Semidesierto,,Semidesierto,ok,VE08,VE0808
+Carabobo,Montalbán,municipio,Carabobo - Montalbán,25719,Localidad mediana,12,9.0,10.0,6.0,Semibosque,,Semibosque,ok,VE08,VE0809
+Carabobo,Naguanagua,municipio,Carabobo - Naguanagua,167075,Localidad grande,41,41.0,8.0,15.0,Posible bosque,,Semibosque,ok,VE08,VE0810
+Carabobo,Puerto Cabello,municipio,Carabobo - Puerto Cabello,177656,Localidad grande,29,28.0,7.0,10.0,Posible bosque,,Semibosque,ok,VE08,VE0811
+Carabobo,San Diego,municipio,Carabobo - San Diego,108628,Localidad grande,33,33.0,8.0,12.0,Posible bosque,,Semibosque,ok,VE08,VE0812
+Carabobo,San Joaquín,municipio,Carabobo - San Joaquín,61054,Localidad mediana,14,13.0,3.0,5.0,Semidesierto,,Semidesierto,ok,VE08,VE0813
+Carabobo,Valencia,municipio,Carabobo - Valencia,824743,Localidad grande,41,41.0,10.0,15.0,Posible bosque,,Semibosque,ok,VE08,VE0814
+Caracas,Parroquia 23 de enero,parroquia,Caracas - Parroquia 23 de enero,70179,Localidad mediana,6,,,3.0,Desierto,,Desierto,ok,VE01,VE010122
+Caracas,Parroquia Altagracia,parroquia,Caracas - Parroquia Altagracia,50730,Localidad mediana,7,,,3.0,Desierto,,Desierto,ok,VE01,VE010101
+Caracas,Parroquia Antímano,parroquia,Caracas - Parroquia Antímano,116301,Localidad grande,7,,,4.0,Desierto,,Desierto,ok,VE01,VE010102
+Caracas,Parroquia Caricuao,parroquia,Caracas - Parroquia Caricuao,64853,Localidad mediana,9,,,4.0,Desierto,,Desierto,ok,VE01,VE010104
+Caracas,Parroquia Catedral,parroquia,Caracas - Parroquia Catedral,135916,Localidad grande,9,,,6.0,Semidesierto,,Semidesierto,ok,VE01,VE010105
+Caracas,Parroquia Coche,parroquia,Caracas - Parroquia Coche,14726,Localidad pequeña,6,,,4.0,Semidesierto,,Semidesierto,ok,VE01,VE010106
+Caracas,Parroquia El Junquito,parroquia,Caracas - Parroquia El Junquito,54124,Localidad mediana,7,,,5.0,Semidesierto,,Semidesierto,ok,VE01,VE010107
+Caracas,Parroquia El Paraíso,parroquia,Caracas - Parroquia El Paraíso,46740,Localidad mediana,10,,,6.0,Semibosque,,Semibosque,ok,VE01,VE010108
+Caracas,Parroquia El Recreo,parroquia,Caracas - Parroquia El Recreo,108460,Localidad grande,9,,,5.0,Desierto,,Desierto,ok,VE01,VE010109
+Caracas,Parroquia El Valle,parroquia,Caracas - Parroquia El Valle,111867,Localidad grande,8,,,5.0,Desierto,,Desierto,ok,VE01,VE010110
+Caracas,Parroquia Candelaria,parroquia,Caracas - Parroquia Candelaria,129622,Localidad grande,12,,,7.0,Semibosque,,Semibosque,ok,VE01,VE010103
+Caracas,Parroquia La Pastora,parroquia,Caracas - Parroquia La Pastora,72885,Localidad mediana,8,,,4.0,Desierto,,Desierto,ok,VE01,VE010111
+Caracas,Parroquia La Vega,parroquia,Caracas - Parroquia La Vega,109075,Localidad grande,10,,,6.0,Semidesierto,,Semidesierto,ok,VE01,VE010112
+Caracas,Parroquia Macarao,parroquia,Caracas - Parroquia Macarao,42623,Localidad mediana,2,,,,Desierto,,Desierto,ok,VE01,VE010113
+Caracas,Parroquia San Agustín,parroquia,Caracas - Parroquia San Agustín,36691,Localidad mediana,6,,,3.0,Desierto,,Desierto,ok,VE01,VE010114
+Caracas,Parroquia San Bernardino,parroquia,Caracas - Parroquia San Bernardino,29702,Localidad mediana,7,,,4.0,Desierto,,Desierto,ok,VE01,VE010115
+Caracas,Parroquia San José,parroquia,Caracas - Parroquia San José,38075,Localidad mediana,3,,,1.0,Desierto,,Desierto,ok,VE01,VE010116
+Caracas,Parroquia San Juan,parroquia,Caracas - Parroquia San Juan,94674,Localidad mediana,5,,,2.0,Desierto,,Desierto,ok,VE01,VE010117
+Caracas,Parroquia San Pedro,parroquia,Caracas - Parroquia San Pedro,66539,Localidad mediana,5,,,3.0,Desierto,,Desierto,ok,VE01,VE010118
+Caracas,Parroquia Santa Rosalía,parroquia,Caracas - Parroquia Santa Rosalía,90691,Localidad mediana,8,,,5.0,Semidesierto,,Semidesierto,ok,VE01,VE010119
+Caracas,Parroquia Santa Teresa,parroquia,Caracas - Parroquia Santa Teresa,26560,Localidad mediana,8,,,5.0,Semidesierto,,Semidesierto,ok,VE01,VE010120
+Caracas,Parroquia Sucre,parroquia,Caracas - Parroquia Sucre,319109,Localidad grande,13,,,7.0,Semibosque,,Semibosque,ok,VE01,VE010121
+Cojedes,Anzoátegui (Cojedito),municipio,Cojedes - Anzoátegui (Cojedito),16523,Localidad pequeña,9,9.0,6.0,2.0,Desierto,,Desierto,ok,VE09,VE0901
+Cojedes,Falcón (Tinaquillo),municipio,Cojedes - Falcón (Tinaquillo),101913,Localidad grande,14,14.0,10.0,1.0,Desierto,,Desierto,ok,VE09,VE0902
+Cojedes,Girardot (El Baúl),municipio,Cojedes - Girardot (El Baúl),11569,Localidad pequeña,9,9.0,6.0,2.0,Desierto,,Desierto,ok,VE09,VE0903
+Cojedes,Lima Blanco (Macapo),municipio,Cojedes - Lima Blanco (Macapo),9272,Localidad pequeña,8,8.0,7.0,1.0,Desierto,,Desierto,ok,VE09,VE0904
+Cojedes,Pao de San Juan Bautista (El Pao),municipio,Cojedes - Pao de San Juan Bautista (El Pao),16270,Localidad pequeña,9,9.0,5.0,2.0,Desierto,,Desierto,ok,VE09,VE0905
+Cojedes,Ricaurte (Libertad),municipio,Cojedes - Ricaurte (Libertad),12319,Localidad pequeña,8,8.0,5.0,2.0,Desierto,,Desierto,ok,VE09,VE0906
+Cojedes,Rómulo Gallegos,municipio,Cojedes - Rómulo Gallegos,17730,Localidad pequeña,12,12.0,6.0,2.0,Desierto,,Desierto,ok,VE09,VE0907
+Cojedes,Ezequiel Zamora (San Carlos),municipio,Cojedes - Ezequiel Zamora (San Carlos),111463,Localidad grande,15,15.0,12.0,1.0,Desierto,,Desierto,ok,VE09,VE0908
+Cojedes,Tinaco,municipio,Cojedes - Tinaco,33556,Localidad mediana,12,12.0,8.0,1.0,Desierto,,Desierto,ok,VE09,VE0909
+Falcón,Acosta (San Juan de los Cayos),municipio,Falcón - Acosta (San Juan de los Cayos),20565,Localidad pequeña,13,13.0,3.0,1.0,Desierto,,Desierto,ok,VE11,VE1101
+Falcón,Bolívar (San Luis),municipio,Falcón - Bolívar (San Luis),8995,Localidad pequeña,12,10.0,4.0,1.0,Desierto,,Desierto,ok,VE11,VE1102
+Falcón,Buchivacoa (Capatárida),municipio,Falcón - Buchivacoa (Capatárida),24487,Localidad pequeña,11,10.0,4.0,1.0,Desierto,,Desierto,ok,VE11,VE1103
+Falcón,Cacique Manaure (Yaracal),municipio,Falcón - Cacique Manaure (Yaracal),11648,Localidad pequeña,14,13.0,4.0,1.0,Desierto,,Desierto,ok,VE11,VE1104
+Falcón,Carirubana (Punto Fijo),municipio,Falcón - Carirubana (Punto Fijo),263778,Localidad grande,28,28.0,11.0,2.0,Desierto,,Desierto,ok,VE11,VE1105
+Falcón,Colina (La Vela de Coro),municipio,Falcón - Colina (La Vela de Coro),44463,Localidad mediana,24,24.0,8.0,1.0,Desierto,,Desierto,ok,VE11,VE1106
+Falcón,Dabajuro,municipio,Falcón - Dabajuro,25358,Localidad mediana,15,13.0,5.0,1.0,Desierto,,Desierto,ok,VE11,VE1107
+Falcón,Democracia (Pedregal),municipio,Falcón - Democracia (Pedregal),10719,Localidad pequeña,13,13.0,2.0,1.0,Desierto,,Desierto,ok,VE11,VE1108
+Falcón,Falcón (Pueblo Nuevo),municipio,Falcón - Falcón (Pueblo Nuevo),52307,Localidad mediana,23,22.0,12.0,2.0,Desierto,,Desierto,ok,VE11,VE1109
+Falcón,Federación (Churuguara),municipio,Falcón - Federación (Churuguara),31912,Localidad mediana,15,12.0,5.0,1.0,Desierto,,Desierto,ok,VE11,VE1110
+Falcón,Jacura,municipio,Falcón - Jacura,12034,Localidad pequeña,12,10.0,4.0,1.0,Desierto,,Desierto,ok,VE11,VE1111
+Falcón,Los Taques (Santa Cruz de Los Taques),municipio,Falcón - Los Taques (Santa Cruz de Los Taques),43498,Localidad mediana,24,23.0,14.0,2.0,Desierto,,Desierto,ok,VE11,VE1112
+Falcón,Mauroa (Mene de Mauroa),municipio,Falcón - Mauroa (Mene de Mauroa),26517,Localidad mediana,13,11.0,4.0,1.0,Desierto,,Desierto,ok,VE11,VE1113
+Falcón,Miranda (Santa Ana de Coro),municipio,Falcón - Miranda (Santa Ana de Coro),229217,Localidad grande,28,28.0,11.0,2.0,Desierto,,Desierto,ok,VE11,VE1114
+Falcón,Monseñor Iturriza (Chichiriviche),municipio,Falcón - Monseñor Iturriza (Chichiriviche),21180,Localidad pequeña,18,16.0,6.0,1.0,Desierto,,Desierto,ok,VE11,VE1115
+Falcón,Palmasola,municipio,Falcón - Palmasola,7938,Localidad pequeña,10,10.0,3.0,1.0,Desierto,,Desierto,ok,VE11,VE1116
+Falcón,Petit (Cabure),municipio,Falcón - Petit (Cabure),14845,Localidad pequeña,12,11.0,3.0,1.0,Desierto,,Desierto,ok,VE11,VE1117
+Falcón,Píritu,municipio,Falcón - Píritu,11174,Localidad pequeña,14,12.0,6.0,1.0,Desierto,,Desierto,ok,VE11,VE1118
+Falcón,San Francisco (Mirimire),municipio,Falcón - San Francisco (Mirimire),11730,Localidad pequeña,14,12.0,5.0,1.0,Desierto,,Desierto,ok,VE11,VE1119
+Falcón,Silva (Tucacas),municipio,Falcón - Silva (Tucacas),40063,Localidad mediana,17,17.0,3.0,1.0,Desierto,,Desierto,ok,VE11,VE1120
+Falcón,Sucre (La Cruz de Taratara),municipio,Falcón - Sucre (La Cruz de Taratara),6064,Localidad pequeña,10,10.0,1.0,1.0,Desierto,,Desierto,ok,VE11,VE1121
+Falcón,Tocópero,municipio,Falcón - Tocópero,5726,Localidad pequeña,11,10.0,3.0,1.0,Desierto,,Desierto,ok,VE11,VE1122
+Falcón,Unión (Santa Cruz de Bucaral),municipio,Falcón - Unión (Santa Cruz de Bucaral),16804,Localidad pequeña,10,10.0,2.0,2.0,Desierto,,Desierto,ok,VE11,VE1123
+Falcón,Urumaco,municipio,Falcón - Urumaco,8578,Localidad pequeña,11,11.0,1.0,1.0,Desierto,,Desierto,ok,VE11,VE1124
+Falcón,Zamora (Puerto Cumarebo),municipio,Falcón - Zamora (Puerto Cumarebo),36401,Localidad mediana,18,18.0,3.0,1.0,Desierto,,Desierto,ok,VE11,VE1125
+Delta Amacuro,Antonio Díaz Curiapo (Curiapo),municipio,Delta Amacuro - Antonio Díaz Curiapo (Curiapo),30116,Localidad mediana,5,4.0,1.0,,Desierto,,Desierto,ok,VE10,VE1001
+Delta Amacuro,Casacoima (Sierra Imataca),municipio,Delta Amacuro - Casacoima (Sierra Imataca),36645,Localidad mediana,4,2.0,2.0,,Desierto,,Desierto,ok,VE10,VE1002
+Delta Amacuro,Pedernales,municipio,Delta Amacuro - Pedernales,7206,Localidad pequeña,5,4.0,2.0,1.0,Desierto,,Desierto,ok,VE10,VE1003
+Delta Amacuro,Tucupita,municipio,Delta Amacuro - Tucupita,115825,Localidad grande,7,7.0,2.0,1.0,Desierto,,Desierto,ok,VE10,VE1004
+Guárico,Esteros de Camaguan,municipio,Guárico - Esteros de Camaguan,27104,Localidad mediana,7,3.0,3.0,2.0,Desierto,,Desierto,ok,VE12,VE1201
+Guárico,Chaguaramas,municipio,Guárico - Chaguaramas,15263,Localidad pequeña,8,5.0,5.0,2.0,Desierto,,Desierto,ok,VE12,VE1202
+Guárico,El Socorro,municipio,Guárico - El Socorro,18024,Localidad pequeña,8,4.0,4.0,2.0,Desierto,,Desierto,ok,VE12,VE1203
+Guárico,Francisco de Miranda (Calabozo),municipio,Guárico - Francisco de Miranda (Calabozo),156629,Localidad grande,12,7.0,7.0,2.0,Desierto,,Desierto,ok,VE12,VE1208
+Guárico,José Félix Ribas (Tucupido),municipio,Guárico - José Félix Ribas (Tucupido),40222,Localidad mediana,7,4.0,4.0,2.0,Desierto,,Desierto,ok,VE12,VE1211
+Guárico,José Tadeo Monagas (Altagracia de Orituco),municipio,Guárico - José Tadeo Monagas (Altagracia de Orituco),82492,Localidad mediana,13,7.0,7.0,3.0,Desierto,,Desierto,ok,VE12,VE1209
+Guárico,Juan Germán Roscio (San Juan de Los Morros),municipio,Guárico - Juan Germán Roscio (San Juan de Los Morros),145327,Localidad grande,13,7.0,7.0,2.0,Desierto,,Desierto,ok,VE12,VE1212
+Guárico,Julián Mellado (El Sombrero),municipio,Guárico - Julián Mellado (El Sombrero),29422,Localidad mediana,8,4.0,4.0,2.0,Desierto,,Desierto,ok,VE12,VE1207
+Guárico,Las Mercedes,municipio,Guárico - Las Mercedes,36207,Localidad mediana,9,4.0,4.0,2.0,Desierto,,Desierto,ok,VE12,VE1206
+Guárico,Leonardo Infante (Valle de La Pascua),municipio,Guárico - Leonardo Infante (Valle de La Pascua),137715,Localidad grande,14,9.0,9.0,2.0,Desierto,,Desierto,ok,VE12,VE1205
+Guárico,Pedro Zaraza (Zaraza),municipio,Guárico - Pedro Zaraza (Zaraza),25423,Localidad mediana,10,6.0,6.0,2.0,Desierto,,Desierto,ok,VE12,VE1215
+Guárico,Ortíz,municipio,Guárico - Ortíz,66589,Localidad mediana,0,0.0,0.0,2.0,Desierto,,Desierto,ok,VE12,VE1210
+Guárico,San Gerónimo de Guayabal (Guayabal),municipio,Guárico - San Gerónimo de Guayabal (Guayabal),21075,Localidad pequeña,8,4.0,4.0,2.0,Desierto,,Desierto,ok,VE12,VE1204
+Guárico,San José de Guaribe,municipio,Guárico - San José de Guaribe,12338,Localidad pequeña,7,4.0,4.0,2.0,Desierto,,Desierto,ok,VE12,VE1213
+Guárico,Santa María de Ipire,municipio,Guárico - Santa María de Ipire,13894,Localidad pequeña,6,4.0,4.0,2.0,Desierto,,Desierto,ok,VE12,VE1214
+Lara,Andrés Eloy Blanco (Sanare),municipio,Lara - Andrés Eloy Blanco (Sanare),49640,Localidad mediana,7,7.0,4.0,2.0,Desierto,,Desierto,ok,VE13,VE1301
+Lara,Crespo (Duaca),municipio,Lara - Crespo (Duaca),53714,Localidad mediana,6,6.0,3.0,2.0,Desierto,,Desierto,ok,VE13,VE1302
+Lara,Iribarren (Barquisimeto),municipio,Lara - Iribarren (Barquisimeto),1054915,Localidad grande,13,12.0,8.0,3.0,Desierto,,Desierto,ok,VE13,VE1303
+Lara,Jiménez (Quibor),municipio,Lara - Jiménez (Quibor),106111,Localidad grande,8,8.0,3.0,2.0,Desierto,,Desierto,ok,VE13,VE1304
+Lara,Morán (El Tocuyo),municipio,Lara - Morán (El Tocuyo),127031,Localidad grande,9,9.0,4.0,2.0,Desierto,,Desierto,ok,VE13,VE1305
+Lara,Palavecino (Cabudare),municipio,Lara - Palavecino (Cabudare),183524,Localidad grande,13,12.0,6.0,3.0,Desierto,,Desierto,ok,VE13,VE1306
+Lara,Simón Planas (Sarare),municipio,Lara - Simón Planas (Sarare),37036,Localidad mediana,6,6.0,3.0,2.0,Desierto,,Desierto,ok,VE13,VE1307
+Lara,Torres (Carora),municipio,Lara - Torres (Carora),190460,Localidad grande,12,11.0,7.0,3.0,Desierto,,Desierto,ok,VE13,VE1308
+Lara,Urdaneta (Siquisique),municipio,Lara - Urdaneta (Siquisique),62937,Localidad mediana,8,5.0,6.0,3.0,Desierto,,Desierto,ok,VE13,VE1309
+La Guaira,Parroquia Caraballeda,municipio,La Guaira - Parroquia Caraballeda,45678,Localidad mediana,5,,,2.0,Desierto,,Desierto,ok,VE24,VE240101
+La Guaira,Parroquia Carayaca,municipio,La Guaira - Parroquia Carayaca,39464,Localidad mediana,3,,,1.0,Desierto,,Desierto,ok,VE24,VE240102
+La Guaira,Parroquia Carlos Soublette,municipio,La Guaira - Parroquia Carlos Soublette,29687,Localidad mediana,6,,,2.0,Desierto,,Desierto,ok,VE24,VE240111
+La Guaira,Parroquia Caruao,municipio,La Guaira - Parroquia Caruao,5346,Localidad pequeña,3,,,1.0,Desierto,,Desierto,ok,VE24,VE240103
+La Guaira,Parroquia Catia La Mar,municipio,La Guaira - Parroquia Catia La Mar,80263,Localidad mediana,6,,,2.0,Desierto,,Desierto,ok,VE24,VE240104
+La Guaira,Parroquia El Junko,municipio,La Guaira - Parroquia El Junko,4054,Localidad pequeña,3,,,1.0,Desierto,,Desierto,ok,VE24,VE240105
+La Guaira,Parroquia La Guaira,municipio,La Guaira - Parroquia La Guaira,18168,Localidad pequeña,8,,,3.0,Desierto,,Desierto,ok,VE24,VE240106
+La Guaira,Parroquia Macuto,municipio,La Guaira - Parroquia Macuto,19295,Localidad pequeña,6,,,2.0,Desierto,,Desierto,ok,VE24,VE240107
+La Guaira,Parroquia Maiquetía,municipio,La Guaira - Parroquia Maiquetía,33064,Localidad mediana,6,,,2.0,Desierto,,Desierto,ok,VE24,VE240108
+La Guaira,Parroquia Naiguatá,municipio,La Guaira - Parroquia Naiguatá,17009,Localidad pequeña,4,,,1.0,Desierto,,Desierto,ok,VE24,VE240109
+La Guaira,Parroquia Urimare,municipio,La Guaira - Parroquia Urimare,46491,Localidad mediana,5,,,2.0,Desierto,,Desierto,ok,VE24,VE240110
+Mérida,Adriani (El Vigía),municipio,Mérida - Adriani (El Vigía),137675,Localidad grande,23,23.0,10.0,5.0,Desierto,,Desierto,ok,VE14,VE1401
+Mérida,Andrés Bello (La Azulita),municipio,Mérida - Andrés Bello (La Azulita),14203,Localidad pequeña,15,13.0,6.0,3.0,Desierto,,Desierto,ok,VE14,VE1402
+Mérida,Aricagua,municipio,Mérida - Aricagua,4202,Localidad pequeña,15,13.0,6.0,2.0,Desierto,,Desierto,ok,VE14,VE1404
+Mérida,Briceño (Torondoy),municipio,Mérida - Briceño (Torondoy),4911,Localidad pequeña,10,7.0,6.0,1.0,Desierto,,Desierto,ok,VE14,VE1411
+Mérida,Chacón (Canaguá),municipio,Mérida - Chacón (Canaguá),12971,Localidad pequeña,16,11.0,12.0,1.0,Desierto,,Desierto,ok,VE14,VE1405
+Mérida,Campo Elías (Ejido),municipio,Mérida - Campo Elías (Ejido),110163,Localidad grande,26,25.0,12.0,6.0,Semidesierto,,Semidesierto,ok,VE14,VE1406
+Mérida,Dávila (Bailadores),municipio,Mérida - Dávila (Bailadores),20662,Localidad pequeña,18,16.0,10.0,3.0,Desierto,,Desierto,ok,VE14,VE1418
+Mérida,Febres Cordero (Nueva Bolivia),municipio,Mérida - Febres Cordero (Nueva Bolivia),33309,Localidad mediana,12,12.0,4.0,1.0,Desierto,,Desierto,ok,VE14,VE1422
+Mérida,Guaraque (Guaraque),municipio,Mérida - Guaraque (Guaraque),9023,Localidad pequeña,14,10.0,9.0,2.0,Desierto,,Desierto,ok,VE14,VE1409
+Mérida,Libertador,municipio,Mérida - Libertador,249831,Localidad grande,28,26.0,15.0,6.0,Semidesierto,,Semidesierto,ok,VE14,VE1412
+Mérida,Miranda (Timotes),municipio,Mérida - Miranda (Timotes),22664,Localidad pequeña,16,13.0,7.0,2.0,Desierto,,Desierto,ok,VE14,VE1413
+Mérida,Noguera (Santa María de Caparo),municipio,Mérida - Noguera (Santa María de Caparo),3207,Localidad pequeña,8,6.0,5.0,1.0,Desierto,,Desierto,ok,VE14,VE1415
+Mérida,Parra Olmedo (Tucaní),municipio,Mérida - Parra Olmedo (Tucaní),27767,Localidad mediana,14,12.0,9.0,2.0,Desierto,,Desierto,ok,VE14,VE1407
+Mérida,Pinto Salinas (Santa Cruz de Mora),municipio,Mérida - Pinto Salinas (Santa Cruz de Mora),24188,Localidad pequeña,17,17.0,11.0,2.0,Desierto,,Desierto,ok,VE14,VE1403
+Mérida,Pueblo Llano (Pueblo Llano),municipio,Mérida - Pueblo Llano (Pueblo Llano),10885,Localidad pequeña,13,11.0,6.0,1.0,Desierto,,Desierto,ok,VE14,VE1416
+Mérida,Quintero (Santo Domingo),municipio,Mérida - Quintero (Santo Domingo),9539,Localidad pequeña,16,15.0,7.0,3.0,Desierto,,Desierto,ok,VE14,VE1408
+Mérida,Rangel (Mucuchíes),municipio,Mérida - Rangel (Mucuchíes),19378,Localidad pequeña,18,16.0,9.0,4.0,Semidesierto,,Semidesierto,ok,VE14,VE1417
+Mérida,Ramos de Lora (Santa Elena de Arenales),municipio,Mérida - Ramos de Lora (Santa Elena de Arenales),24804,Localidad pequeña,15,14.0,7.0,3.0,Desierto,,Desierto,ok,VE14,VE1414
+Mérida,Salas (Arapuey),municipio,Mérida - Salas (Arapuey),14500,Localidad pequeña,11,8.0,6.0,1.0,Desierto,,Desierto,ok,VE14,VE1410
+Mérida,Marquina (Tabay),municipio,Mérida - Marquina (Tabay),19656,Localidad pequeña,22,22.0,7.0,4.0,Semidesierto,,Semidesierto,ok,VE14,VE1419
+Mérida,Sucre (Lagunillas),municipio,Mérida - Sucre (Lagunillas),59213,Localidad mediana,22,21.0,10.0,5.0,Semidesierto,,Semidesierto,ok,VE14,VE1420
+Mérida,Tovar,municipio,Mérida -Tovar,37827,Localidad mediana,24,23.0,10.0,4.0,Desierto,,Desierto,ok,VE14,VE1421
+Mérida,Zea,municipio,Mérida - Zea,11277,Localidad pequeña,21,21.0,10.0,3.0,Desierto,,Desierto,ok,VE14,VE1423
+Miranda,Acevedo (Caucagua),municipio,Miranda - Acevedo (Caucagua),89219,Localidad mediana,6,5.0,4.0,3.0,Desierto,,Desierto,ok,VE15,VE1501
+Miranda,Andrés Bello (San José de Barlovento),municipio,Miranda - Andrés Bello (San José de Barlovento),21159,Localidad pequeña,4,4.0,2.0,2.0,Desierto,,Desierto,ok,VE15,VE1502
+Miranda,Baruta,municipio,Miranda - Baruta,337230,Localidad grande,11,11.0,3.0,5.0,Desierto,,Desierto,ok,VE15,VE1503
+Miranda,Brión (Higuerote),municipio,Miranda - Brión (Higuerote),62490,Localidad mediana,8,7.0,4.0,3.0,Desierto,,Desierto,ok,VE15,VE1504
+Miranda,Buroz (Mamporal),municipio,Miranda - Buroz (Mamporal),27627,Localidad mediana,6,6.0,3.0,1.0,Desierto,,Desierto,ok,VE15,VE1505
+Miranda,Carrizal,municipio,Miranda - Carrizal,52555,Localidad mediana,20,18.0,9.0,6.0,Semibosque,,Semibosque,ok,VE15,VE1506
+Miranda,Chacao,municipio,Miranda - Chacao,71473,Localidad mediana,15,15.0,2.0,5.0,Semidesierto,,Semidesierto,ok,VE15,VE1507
+Miranda,Cristóbal Rojas (Charallave),municipio,Miranda - Cristóbal Rojas (Charallave),131464,Localidad grande,14,14.0,7.0,3.0,Desierto,,Desierto,ok,VE15,VE1508
+Miranda,El Hatillo,municipio,Miranda - El Hatillo,83950,Localidad mediana,12,11.0,3.0,5.0,Semidesierto,,Semidesierto,ok,VE15,VE1509
+Miranda,Guaicaipuro (Los Teques),municipio,Miranda - Guaicaipuro (Los Teques),269828,Localidad grande,22,22.0,8.0,8.0,Posible bosque,,Semibosque,ok,VE15,VE1510
+Miranda,Independencia (Santa Teresa del Tuy),municipio,Miranda - Independencia (Santa Teresa del Tuy),147656,Localidad grande,15,15.0,9.0,3.0,Desierto,,Desierto,ok,VE15,VE1511
+Miranda,Lander (Ocumare del Tuy),municipio,Miranda - Lander (Ocumare del Tuy),159110,Localidad grande,16,16.0,9.0,3.0,Desierto,,Desierto,ok,VE15,VE1512
+Miranda,Los Salias (San Antonio de los Altos),municipio,Miranda - Los Salias (San Antonio de los Altos),70620,Localidad mediana,21,21.0,10.0,7.0,Posible bosque,,Semibosque,ok,VE15,VE1513
+Miranda,Páez (Río Chico),municipio,Miranda - Páez (Río Chico),39021,Localidad mediana,6,6.0,3.0,2.0,Desierto,,Desierto,ok,VE15,VE1514
+Miranda,Paz Castillo (Santa Lucía),municipio,Miranda - Paz Castillo (Santa Lucía),115460,Localidad grande,13,13.0,8.0,3.0,Desierto,,Desierto,ok,VE15,VE1515
+Miranda,Pedro Gual (Cúpira),municipio,Miranda - Pedro Gual (Cúpira),22117,Localidad pequeña,6,6.0,3.0,1.0,Desierto,,Desierto,ok,VE15,VE1516
+Miranda,Plaza (Guarenas),municipio,Miranda - Plaza (Guarenas),222074,Localidad grande,12,12.0,5.0,2.0,Desierto,,Desierto,ok,VE15,VE1517
+Miranda,Simón Bolívar (San Francisco de Yare),municipio,Miranda - Simón Bolívar (San Francisco de Yare),44847,Localidad mediana,13,13.0,9.0,3.0,Desierto,,Desierto,ok,VE15,VE1518
+Miranda,Sucre (Petare),municipio,Miranda - Sucre (Petare),641570,Localidad grande,13,12.0,4.0,6.0,Semidesierto,,Semidesierto,ok,VE15,VE1519
+Miranda,Urdaneta (Cúa),municipio,Miranda - Urdaneta (Cúa),155930,Localidad grande,16,15.0,12.0,4.0,Desierto,,Desierto,ok,VE15,VE1520
+Miranda,Zamora (Guatire),municipio,Miranda - Zamora (Guatire),203416,Localidad grande,12,12.0,5.0,2.0,Desierto,,Desierto,ok,VE15,VE1521
+Monagas,Acosta (San Antonio de Capayacuar),municipio,Monagas - Acosta (San Antonio de Capayacuar),17972,Localidad pequeña,8,7.0,6.0,1.0,Desierto,,Desierto,ok,VE16,VE1601
+Monagas,Aguasay,municipio,Monagas - Aguasay,11999,Localidad pequeña,5,5.0,1.0,1.0,Desierto,,Desierto,ok,VE16,VE1602
+Monagas,Bolívar (Caripito),municipio,Monagas - Bolívar (Caripito),39209,Localidad mediana,8,8.0,1.0,1.0,Desierto,,Desierto,ok,VE16,VE1603
+Monagas,Caripe,municipio,Monagas - Caripe,34813,Localidad mediana,9,9.0,1.0,2.0,Desierto,,Desierto,ok,VE16,VE1604
+Monagas,Cedeño (Caicara de Maturín),municipio,Monagas - Cedeño (Caicara de Maturín),36107,Localidad mediana,7,7.0,2.0,1.0,Desierto,,Desierto,ok,VE16,VE1605
+Monagas,Libertador (Temblador),municipio,Monagas - Libertador (Temblador),45049,Localidad mediana,8,7.0,2.0,,Desierto,,Desierto,ok,VE16,VE1607
+Monagas,Maturín,municipio,Monagas - Maturín,562677,Localidad grande,12,12.0,8.0,4.0,Desierto,,Desierto,ok,VE16,VE1608
+Monagas,Piar (Aragua de Maturín),municipio,Monagas - Piar (Aragua de Maturín),46141,Localidad mediana,8,7.0,4.0,2.0,Desierto,,Desierto,ok,VE16,VE1609
+Monagas,Punceres (Quiriquire),municipio,Monagas - Punceres (Quiriquire),27714,Localidad mediana,7,5.0,3.0,,Desierto,,Desierto,ok,VE16,VE1610
+Monagas,Santa Bárbara,municipio,Monagas - Santa Bárbara,9797,Localidad pequeña,6,6.0,1.0,1.0,Desierto,,Desierto,ok,VE16,VE1611
+Monagas,Sotillo (Barrancas del Orinoco),municipio,Monagas - Sotillo (Barrancas del Orinoco),24168,Localidad pequeña,9,8.0,4.0,1.0,Desierto,,Desierto,ok,VE16,VE1612
+Monagas,Uracoa,municipio,Monagas - Uracoa,9514,Localidad pequeña,6,5.0,3.0,1.0,Desierto,,Desierto,ok,VE16,VE1613
+Monagas,Zamora (Punta de Mata),municipio,Monagas - Zamora (Punta de Mata),65951,Localidad mediana,10,10.0,2.0,3.0,Desierto,,Desierto,ok,VE16,VE1606
+Nueva Esparta,Antolín del Campo (La Plaza de Paraguachí),municipio,Nueva Esparta - Antolín del Campo (La Plaza de Paraguachí),32147,Localidad mediana,8,6.0,7.0,2.0,Desierto,,Desierto,ok,VE17,VE1701
+Nueva Esparta,Arismendi (La Asunción),municipio,Nueva Esparta - Arismendi (La Asunción),32950,Localidad mediana,10,10.0,6.0,1.0,Desierto,,Desierto,ok,VE17,VE1702
+Nueva Esparta,Díaz (San Juan Bautista),municipio,Nueva Esparta - Díaz (San Juan Bautista),81437,Localidad mediana,6,5.0,5.0,2.0,Desierto,,Desierto,ok,VE17,VE1703
+Nueva Esparta,García (El Valle del Espíritu Santo),municipio,Nueva Esparta - García (El Valle del Espíritu Santo),77614,Localidad mediana,7,5.0,5.0,1.0,Desierto,,Desierto,ok,VE17,VE1704
+Nueva Esparta,Gómez (Santa Ana),municipio,Nueva Esparta - Gómez (Santa Ana),46933,Localidad mediana,6,5.0,4.0,2.0,Desierto,,Desierto,ok,VE17,VE1705
+Nueva Esparta,Maneiro (Pampatar),municipio,Nueva Esparta - Maneiro (Pampatar),58556,Localidad mediana,10,10.0,5.0,1.0,Desierto,,Desierto,ok,VE17,VE1706
+Nueva Esparta,Marcano (Juan Griego),municipio,Nueva Esparta - Marcano (Juan Griego),41537,Localidad mediana,8,6.0,6.0,1.0,Desierto,,Desierto,ok,VE17,VE1707
+Nueva Esparta,Mariño (Porlamar),municipio,Nueva Esparta - Mariño (Porlamar),117183,Localidad grande,10,10.0,5.0,1.0,Desierto,,Desierto,ok,VE17,VE1708
+Nueva Esparta,Península de Macanao (Boca de Río),municipio,Nueva Esparta - Península de Macanao (Boca de Río),30094,Localidad mediana,5,4.0,4.0,2.0,Desierto,,Desierto,ok,VE17,VE1709
+Nueva Esparta,Tubores (Punta de Piedras),municipio,Nueva Esparta - Tubores (Punta de Piedras),42180,Localidad mediana,5,5.0,4.0,2.0,Desierto,,Desierto,ok,VE17,VE1710
+Nueva Esparta,Villalba (San Pedro de Coche),municipio,Nueva Esparta - Villalba (San Pedro de Coche),10281,Localidad pequeña,4,4.0,2.0,2.0,Desierto,,Desierto,ok,VE17,VE1711
+Portuguesa,Agua Blanca,municipio,Portuguesa - Agua Blanca,21300,Localidad pequeña,15,12.0,11.0,1.0,Desierto,,Desierto,ok,VE18,VE1801
+Portuguesa,Araure,municipio,Portuguesa - Araure,172372,Localidad grande,22,22.0,14.0,3.0,Desierto,,Desierto,ok,VE18,VE1802
+Portuguesa,Esteller (Píritu),municipio,Portuguesa - Esteller (Píritu),45254,Localidad mediana,14,12.0,9.0,1.0,Desierto,,Desierto,ok,VE18,VE1803
+Portuguesa,Guanare,municipio,Portuguesa - Guanare,205081,Localidad grande,22,22.0,12.0,3.0,Desierto,,Desierto,ok,VE18,VE1804
+Portuguesa,Guanarito,municipio,Portuguesa - Guanarito,38397,Localidad mediana,12,9.0,9.0,1.0,Desierto,,Desierto,ok,VE18,VE1805
+Portuguesa,Monseñor José Vicenti de Unda (Chabasquén de Unda),municipio,Portuguesa - Monseñor José Vicenti de Unda (Chabasquén de Unda),24232,Localidad pequeña,10,8.0,9.0,1.0,Desierto,,Desierto,ok,VE18,VE1806
+Portuguesa,Ospino,municipio,Portuguesa - Ospino,49795,Localidad mediana,18,17.0,10.0,3.0,Desierto,,Desierto,ok,VE18,VE1807
+Portuguesa,Páez (Acarigua),municipio,Portuguesa - Páez (Acarigua),187727,Localidad grande,22,22.0,14.0,3.0,Desierto,,Desierto,ok,VE18,VE1808
+Portuguesa,Papelón,municipio,Portuguesa - Papelón,16995,Localidad pequeña,12,8.0,11.0,1.0,Desierto,,Desierto,ok,VE18,VE1809
+Portuguesa,San Genaro de Boconoíto (Boconoíto),municipio,Portuguesa - San Genaro de Boconoíto (Boconoíto),23872,Localidad pequeña,10,9.0,9.0,1.0,Desierto,,Desierto,ok,VE18,VE1810
+Portuguesa,San Rafael de Onoto,municipio,Portuguesa - San Rafael de Onoto,18908,Localidad pequeña,11,10.0,9.0,2.0,Desierto,,Desierto,ok,VE18,VE1811
+Portuguesa,Santa Rosalía (El Playón),municipio,Portuguesa - Santa Rosalía (El Playón),17885,Localidad pequeña,10,8.0,9.0,2.0,Desierto,,Desierto,ok,VE18,VE1812
+Portuguesa,Sucre (Biscucuy),municipio,Portuguesa - Sucre (Biscucuy),42501,Localidad mediana,12,11.0,9.0,1.0,Desierto,,Desierto,ok,VE18,VE1813
+Portuguesa,Turén (Villa Bruzual),municipio,Portuguesa - Turén (Villa Bruzual),65928,Localidad mediana,15,14.0,9.0,2.0,Desierto,,Desierto,ok,VE18,VE1814
+Sucre,Andrés Eloy Blanco (Casanay),municipio,Sucre - Andrés Eloy Blanco (Casanay),28337,Localidad mediana,4,3.0,3.0,1.0,Desierto,,Desierto,ok,VE19,VE1901
+Sucre,Andrés Mata (San José de Aerocuar),municipio,Sucre - Andrés Mata (San José de Aerocuar),21211,Localidad pequeña,4,4.0,3.0,1.0,Desierto,,Desierto,ok,VE19,VE1902
+Sucre,Arismendi (Río Caribe),municipio,Sucre - Arismendi (Río Caribe),50589,Localidad mediana,5,5.0,3.0,2.0,Desierto,,Desierto,ok,VE19,VE1903
+Sucre,Benítez (El Pilar),municipio,Sucre - Benítez (El Pilar),33449,Localidad mediana,2,2.0,1.0,1.0,Desierto,,Desierto,ok,VE19,VE1904
+Sucre,Bermúdez (Carúpano),municipio,Sucre - Bermúdez (Carúpano),149120,Localidad grande,5,5.0,5.0,2.0,Desierto,,Desierto,ok,VE19,VE1905
+Sucre,Bolívar (Marigüitar),municipio,Sucre - Bolívar (Marigüitar),23642,Localidad pequeña,3,3.0,1.0,1.0,Desierto,,Desierto,ok,VE19,VE1906
+Sucre,Cajigal (Yaguaraparo),municipio,Sucre - Cajigal (Yaguaraparo),22706,Localidad pequeña,3,3.0,1.0,2.0,Desierto,,Desierto,ok,VE19,VE1907
+Sucre,Cruz Salmerón Acosta (Araya),municipio,Sucre - Cruz Salmerón Acosta (Araya),37770,Localidad mediana,4,4.0,3.0,1.0,Desierto,,Desierto,ok,VE19,VE1908
+Sucre,Libertador (Tunapuy),municipio,Sucre - Libertador (Tunapuy),10281,Localidad pequeña,1,1.0,1.0,,Desierto,,Desierto,ok,VE19,VE1909
+Sucre,Mariño (Irapa).,municipio,Sucre - Mariño (Irapa).,25845,Localidad mediana,2,2.0,2.0,,Desierto,,Desierto,ok,VE19,VE1910
+Sucre,Mejía (San Antonio del Golfo),municipio,Sucre - Mejía (San Antonio del Golfo),15101,Localidad pequeña,3,3.0,2.0,1.0,Desierto,,Desierto,ok,VE19,VE1911
+Sucre,Montes (Cumanacoa),municipio,Sucre - Montes (Cumanacoa),57312,Localidad mediana,5,5.0,4.0,1.0,Desierto,,Desierto,ok,VE19,VE1912
+Sucre,Ribero (Cariaco),municipio,Sucre - Ribero (Cariaco),65054,Localidad mediana,4,4.0,4.0,1.0,Desierto,,Desierto,ok,VE19,VE1913
+Sucre,Sucre (Cumaná),municipio,Sucre - Sucre (Cumaná),402649,Localidad grande,6,6.0,4.0,2.0,Desierto,,Desierto,ok,VE19,VE1914
+Sucre,Valdez (Güiria),municipio,Sucre - Valdez (Güiria),44077,Localidad mediana,3,3.0,1.0,1.0,Desierto,,Desierto,ok,VE19,VE1915
+Táchira,Andrés Bello (Cordero),municipio,Táchira - Andrés Bello (Cordero),17464,Localidad pequeña,7,7.0,3.0,,Desierto,,Desierto,ok,VE20,VE2001
+Táchira,Antonio Rómulo Costa (Las Mesas),municipio,Táchira - Antonio Rómulo Costa (Las Mesas),8992,Localidad pequeña,8,8.0,5.0,,Desierto,,Desierto,ok,VE20,VE2002
+Táchira,Ayacucho (Colón),municipio,Táchira - Ayacucho (Colón),49810,Localidad mediana,13,12.0,8.0,2.0,Desierto,,Desierto,ok,VE20,VE2003
+Táchira,Bolívar (San Antonio del Táchira),municipio,Táchira - Bolívar (San Antonio del Táchira),52935,Localidad mediana,9,9.0,3.0,1.0,Desierto,,Desierto,ok,VE20,VE2004
+Táchira,Cárdenas (Táriba),municipio,Táchira - Cárdenas (Táriba),110318,Localidad grande,11,11.0,3.0,1.0,Desierto,,Desierto,ok,VE20,VE2005
+Táchira,Córdoba (Santa Ana de Táchira),municipio,Táchira - Córdoba (Santa Ana de Táchira),28235,Localidad mediana,8,8.0,3.0,,Desierto,,Desierto,ok,VE20,VE2006
+Táchira,Fernández Feo (San Rafael del Piñal),municipio,Táchira - Fernández Feo (San Rafael del Piñal),38947,Localidad mediana,5,5.0,2.0,1.0,Desierto,,Desierto,ok,VE20,VE2007
+Táchira,Francisco de Miranda (San José de Bolívar),municipio,Táchira - Francisco de Miranda (San José de Bolívar),3475,Localidad pequeña,9,7.0,7.0,,Desierto,,Desierto,ok,VE20,VE2008
+Táchira,García de Hevia (La Fría),municipio,Táchira - García de Hevia (La Fría),41748,Localidad mediana,10,8.0,6.0,1.0,Desierto,,Desierto,ok,VE20,VE2009
+Táchira,Guásimos (Palmira),municipio,Táchira - Guásimos (Palmira),38325,Localidad mediana,9,8.0,4.0,1.0,Desierto,,Desierto,ok,VE20,VE2010
+Táchira,Independencia (Capacho Nuevo),municipio,Táchira - Independencia (Capacho Nuevo),32009,Localidad mediana,9,8.0,4.0,,Desierto,,Desierto,ok,VE20,VE2011
+Táchira,Jáuregui (La Grita),municipio,Táchira - Jáuregui (La Grita),35659,Localidad mediana,13,13.0,9.0,1.0,Desierto,,Desierto,ok,VE20,VE2012
+Táchira,José María Vargas (El Cobre),municipio,Táchira - José María Vargas (El Cobre),8660,Localidad pequeña,10,10.0,8.0,,Desierto,,Desierto,ok,VE20,VE2013
+Táchira,Junín (Rubio),municipio,Táchira - Junín (Rubio),74267,Localidad mediana,13,13.0,8.0,2.0,Desierto,,Desierto,ok,VE20,VE2014
+Táchira,San Judas Tadeo (Umuquena),municipio,Táchira - San Judas Tadeo (Umuquena),6369,Localidad pequeña,8,8.0,5.0,,Desierto,,Desierto,ok,VE20,VE2029
+Táchira,Libertad (Capacho Viejo),municipio,Táchira - Libertad (Capacho Viejo),23542,Localidad pequeña,10,10.0,3.0,,Desierto,,Desierto,ok,VE20,VE2015
+Táchira,Libertador (Abejales),municipio,Táchira - Libertador (Abejales),18880,Localidad pequeña,4,4.0,1.0,,Desierto,,Desierto,ok,VE20,VE2016
+Táchira,Lobatera,municipio,Táchira - Lobatera,11179,Localidad pequeña,7,6.0,5.0,2.0,Desierto,,Desierto,ok,VE20,VE2017
+Táchira,Michelena,municipio,Táchira - Michelena,16361,Localidad pequeña,9,8.0,6.0,2.0,Desierto,,Desierto,ok,VE20,VE2018
+Táchira,Panamericano (Coloncito),municipio,Táchira - Panamericano (Coloncito),27188,Localidad mediana,7,6.0,6.0,1.0,Desierto,,Desierto,ok,VE20,VE2019
+Táchira,Pedro María Ureña (Ureña),municipio,Táchira - Pedro María Ureña (Ureña),45026,Localidad mediana,9,9.0,3.0,1.0,Desierto,,Desierto,ok,VE20,VE2020
+Táchira,Rafael Urdaneta (Delicias),municipio,Táchira - Rafael Urdaneta (Delicias),4986,Localidad pequeña,6,5.0,3.0,,Desierto,,Desierto,ok,VE20,VE2021
+Táchira,Samuel Dario Maldonado (La Tendida),municipio,Táchira - Samuel Dario Maldonado (La Tendida),15875,Localidad pequeña,6,5.0,3.0,1.0,Desierto,,Desierto,ok,VE20,VE2022
+Táchira,San Cristóbal,municipio,Táchira - San Cristóbal,231079,Localidad grande,15,14.0,11.0,2.0,Desierto,,Desierto,ok,VE20,VE2023
+Táchira,Seboruco,municipio,Táchira - Seboruco,16297,Localidad pequeña,9,8.0,7.0,,Desierto,,Desierto,ok,VE20,VE2024
+Táchira,Simón Rodríguez (San Simon),municipio,Táchira - Simón Rodríguez (San Simon),2125,Localidad pequeña,2,2.0,1.0,,Desierto,,Desierto,ok,VE20,VE2025
+Táchira,Sucre (Queniquea),municipio,Táchira - Sucre (Queniquea),6331,Localidad pequeña,7,7.0,4.0,,Desierto,,Desierto,ok,VE20,VE2026
+Táchira,Torbes (San Josecito),municipio,Táchira - Torbes (San Josecito),43559,Localidad mediana,10,10.0,3.0,1.0,Desierto,,Desierto,ok,VE20,VE2027
+Táchira,Uribante (Pregonero),municipio,Táchira - Uribante (Pregonero),17219,Localidad pequeña,5,4.0,3.0,,Desierto,,Desierto,ok,VE20,VE2028
+Zulia,Bolívar (Tía Juana),municipio,Zulia - Bolívar (Tía Juana),44094,Localidad mediana,23,21.0,13.0,7.0,Posible bosque,,Semibosque,ok,VE23,VE2319
+Zulia,Baralt (San Timoteo),municipio,Zulia - Baralt (San Timoteo),92904,Localidad mediana,18,16.0,11.0,3.0,Desierto,,Desierto,ok,VE23,VE2302
+Zulia,Cabimas,municipio,Zulia - Cabimas,274088,Localidad grande,39,39.0,20.0,11.0,Posible bosque,,Semibosque,ok,VE23,VE2303
+Zulia,Catatumbo (Encontrados),municipio,Zulia - Catatumbo (Encontrados),41326,Localidad mediana,16,13.0,11.0,4.0,Desierto,,Desierto,ok,VE23,VE2304
+Zulia,Colón (San Carlos del Zulia),municipio,Zulia - Colón (San Carlos del Zulia),127440,Localidad grande,12,11.0,6.0,2.0,Desierto,,Desierto,ok,VE23,VE2305
+Zulia,Guajira (Sinamaica),municipio,Zulia - Guajira (Sinamaica),67194,Localidad mediana,24,18.0,17.0,6.0,Semibosque,,Semibosque,ok,VE23,VE2315
+Zulia,Padilla (El Toro),municipio,Zulia - Padilla (El Toro),12594,Localidad pequeña,10,8.0,7.0,2.0,Desierto,,Desierto,ok,VE23,VE2301
+Zulia,Pulgar (Pueblo Nuevo-El Chivo),municipio,Zulia - Pulgar (Pueblo Nuevo-El Chivo),33351,Localidad mediana,10,9.0,6.0,2.0,Desierto,,Desierto,ok,VE23,VE2306
+Zulia,Lossada (La Concepción),municipio,Zulia - Lossada (La Concepción),118919,Localidad grande,21,19.0,10.0,6.0,Semidesierto,,Semidesierto,ok,VE23,VE2307
+Zulia,Semprún (Casigua El Cubo),municipio,Zulia - Semprún (Casigua El Cubo),30216,Localidad mediana,10,10.0,7.0,0.0,Desierto,,Desierto,ok,VE23,VE2308
+Zulia,La Cañada de Urdaneta (Concepción),municipio,Zulia - La Cañada de Urdaneta (Concepción),83543,Localidad mediana,20,19.0,9.0,6.0,Semibosque,,Semibosque,ok,VE23,VE2309
+Zulia,Lagunillas (Ciudad Ojeda),municipio,Zulia - Lagunillas (Ciudad Ojeda),200092,Localidad grande,35,35.0,22.0,12.0,Posible bosque,,Semibosque,ok,VE23,VE2310
+Zulia,Machiques,municipio,Zulia - Machiques,124492,Localidad grande,28,28.0,15.0,8.0,Posible bosque,,Semibosque,ok,VE23,VE2311
+Zulia,Mara (San Rafael del Moján),municipio,Zulia - Mara (San Rafael del Moján),202242,Localidad grande,14,10.0,9.0,5.0,Desierto,,Desierto,ok,VE23,VE2312
+Zulia,Maracaibo,municipio,Zulia - Maracaibo,1560837,Localidad grande,51,51.0,30.0,17.0,Posible bosque,,Semibosque,ok,VE23,VE2313
+Zulia,Miranda (Los Puertos de Altagracia),municipio,Zulia - Miranda (Los Puertos de Altagracia),99681,Localidad mediana,26,26.0,14.0,9.0,Posible bosque,,Semibosque,ok,VE23,VE2314
+Zulia,Rosario (La Villa del Rosario),municipio,Zulia - Rosario (La Villa del Rosario),86983,Localidad mediana,24,23.0,13.0,7.0,Posible bosque,,Semibosque,ok,VE23,VE2316
+Zulia,San Francisco,municipio,Zulia - San Francisco,462417,Localidad grande,39,38.0,22.0,12.0,Posible bosque,,Semibosque,ok,VE23,VE2317
+Zulia,Santa Rita,municipio,Zulia - Santa Rita,58912,Localidad mediana,28,27.0,14.0,9.0,Posible bosque,,Semibosque,ok,VE23,VE2318
+Zulia,Sucre (Bobures),municipio,Zulia - Sucre (Bobures),60086,Localidad mediana,8,7.0,5.0,2.0,Desierto,,Desierto,ok,VE23,VE2320
+Zulia,Valmore Rodríguez (Bachaquero),municipio,Zulia - Valmore Rodríguez (Bachaquero),52524,Localidad mediana,18,17.0,12.0,6.0,Semibosque,,Semibosque,ok,VE23,VE2321
